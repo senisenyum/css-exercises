@@ -4,3 +4,14 @@
     background-color: #ffa7a7;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#line2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#line4 {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
+}
