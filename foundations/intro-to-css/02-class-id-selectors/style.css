@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+.odd-lines {
+    background-color: #ffa7a7;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
